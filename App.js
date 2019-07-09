@@ -98,7 +98,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <Text style={{ fontSize: 30, fontWeight: "bold", marginVertical: 20 }}>
-          HEX CONVERT
+          HEX CONVERT131
         </Text>
         <Text style={styles.label}>Hex String:</Text>
         <Input
